@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yomergonzalez/testcicd/issues"
   },
-  "homepage": "https://github.com/yomergonzalez/testcicd#readme"
+  "homepage": "https://github.com/yomergonzalez/testcicd#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
